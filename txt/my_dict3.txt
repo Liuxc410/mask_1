@@ -1,0 +1,2 @@
+no_mask: 0
+yes: 1
